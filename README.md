@@ -2,8 +2,10 @@ Colormap (PHP)
 ========================================
 
 Author: Kenn Wilson
-Author URL: http://www.corvidworks.com/
-Project URL: http://www.corvidworks.com/projects/colormap/
+
+Author URL: [http://www.corvidworks.com/](http://www.corvidworks.com/)
+
+Project URL: [http://www.corvidworks.com/projects/colormap/](http://www.corvidworks.com/projects/colormap/)
 
 
 Description
@@ -40,7 +42,8 @@ Documentation
 -------------------
 
 Additional information can be found at:
-http://www.corvidworks.com/projects/colormap/
+
+[http://www.corvidworks.com/projects/colormap/](http://www.corvidworks.com/projects/colormap/)
 
 
 License
