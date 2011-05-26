@@ -122,7 +122,7 @@ class ColorMap {
 	}
 	
 	/**
-	 * Convert a named color to it's hexadecimal equivalent
+	 * Convert a named color to its hexadecimal equivalent
 	 * 
 	 * @param   string    Named color to convert 
 	 * @return  string    Specified color in hexadecimal, if name exists
@@ -140,7 +140,7 @@ class ColorMap {
 	}
 	
 	/**
-	 * Convert a hex color to it's named equivilant, if possible.
+	 * Convert a hex color to its named equivalent, if possible.
 	 * 
 	 * @param   string    Hexidecimal color code
 	 * @return  string    Named color corresponding to specified hex code.
@@ -162,7 +162,7 @@ class ColorMap {
 	}
 	
 	/**
-	 * Convert a named color to it's RGB equivalent
+	 * Convert a named color to its RGB equivalent
 	 * 
 	 * @param   string    $name      Named color to convert 
 	 * @param   string    $format    Preferred format of output. Defaults to array.
@@ -177,7 +177,7 @@ class ColorMap {
 	}
 	
 	/**
-	 * Convert an RGB color to it's named equivilant, if possible.
+	 * Convert an RGB color to its named equivalent, if possible.
 	 * 
 	 * @param             RGB color code, either array or space-delimited string
 	 * @return  string    Named color corresponding to specified RGB code.
